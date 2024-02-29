@@ -1,1 +1,2 @@
 # Actividad-Nro.2---Pagina-Web-y-Formularios
+Crear un formulario que permita al usuario digitar la siguiente información: Nombres y apellidos, Apodo, Color de Cabello, Color de Ojos, Edad, Hobby (Solo uno),. Todos los campos son obligatorios, una vez el usuario halla digitado la información solicitada y presione continuar, el sistema debe construir un cuento con estos datos y mostrarlo en pantalla.
