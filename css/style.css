@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Color de fondo del cuerpo */
+}
+
+header {
+    background-color: #4CAF50; /* Verde */
+    color: #fff; /* Color del texto */
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+#nuestra-tienda 
+{
+    background-color: #ffcc00; /* Amarillo */
+}
+
+#servicios 
+{
+    background-color: #00bcd4; /* Azul claro */
+}
+
+#contacto 
+{
+    background-color: #f44336; /* Rojo */
+    color: #fff; /* Color del texto */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
